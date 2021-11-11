@@ -63,13 +63,15 @@ function userInput(){
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeFile(fileName, data, (err) =>
-    err ? console.error(err) : console.log(success)
-  );
+  fs.appendFile(`$ {filename}.md`, data,
+  (err) => err ? console.error(err) : console.log(`$ {filename}.md has been generated.`))
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+async function init() {
+  let answers = await userInput();
+  writeToFile((answers.fileName), (generateMarkdown(answers)));
+}
 
 
 // Function call to initialize app
