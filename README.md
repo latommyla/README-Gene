@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/85325106/142712138-719c9425-0994-41ab-
 
 # Description
 
-Devloping a README.md generator that has prompts asking for the title, description, installation instructions, usage information, contribution guidelines, and testing instructions. 
+Developing a README.md generator that has prompts asking for the title, description, installation instructions, usage information, contribution guidelines, and testing instructions. 
 
 # What was used in this project?
 
