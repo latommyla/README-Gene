@@ -1,4 +1,4 @@
-# README Generator
+# Title of application
   ## Badges
   [![License: AFL-3.0](https://img.shields.io/badge/License-AFL--3.0-lightgrey.svg)](https://opensource.org/licenses/AFL-3.0)
 
@@ -15,19 +15,19 @@
   [Academic Free License v3.0](https://opensource.org/licenses/AFL-3.0)
 
   ## Description
-  Generates a README file
+  What does the application do
 
   ## Installation
-  GitHub has instructions on how to do this!
+  How to install?
 
   ## Usage
-  run node index.js
+  How to use?
 
   ## Contribute
-  Contribute
+  How to contribute?
 
   ## Tests
-  Testing application
+  How do you test?
 
   ## Contact
   * [latommyla](https:github.com/latommyla)
