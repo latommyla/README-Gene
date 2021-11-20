@@ -2,10 +2,11 @@
 
 This project was for my UCSD coding bootcamp, creating a README.md generator.  
 
-# Demo & Repository
+# Demo Video & Repository
 
 * [GitHub Repo](https://github.com/latommyla/README-Gene)
-* [GitHub Deployed URL](https://latommyla.github.io/README-Gene/)
+
+https://user-images.githubusercontent.com/85325106/142712138-719c9425-0994-41ab-bfe3-450f684eddb6.mp4
 
 # Description
 
